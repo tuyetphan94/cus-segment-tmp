@@ -10,3 +10,4 @@ jieba
 squarify
 underthesea
 uv
+re
