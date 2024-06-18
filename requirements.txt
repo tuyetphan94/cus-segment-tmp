@@ -7,3 +7,4 @@ scikit-learn
 wordcloud
 plotly
 jieba
+squarify
