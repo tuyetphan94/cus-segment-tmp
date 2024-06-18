@@ -9,3 +9,4 @@ plotly
 jieba
 squarify
 underthesea
+uv
